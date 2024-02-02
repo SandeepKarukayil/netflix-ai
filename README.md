@@ -8,6 +8,8 @@ This project uses React and tailwind css for styling
 > sign up sign
 >
 > -   home page(After authentication)
+>     deploying using fire base
+>     create redux store with userSlice
 >
 > 1. header
 > 2. main movie
